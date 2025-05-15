@@ -1,6 +1,6 @@
 ﻿using System.Diagnostics;
 
-const int size = 100000;
+int size = 100000;
 int[] numbers = new int[size];
 Random rng = new Random();
 

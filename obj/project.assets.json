@@ -8,7 +8,7 @@
     "net8.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Edvin\\.nuget\\packages\\": {}
+    "C:\\Users\\edor07001\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
@@ -16,11 +16,11 @@
       "projectUniqueName": "C:\\Github\\Bubblesort\\Bubblesort.csproj",
       "projectName": "Bubblesort",
       "projectPath": "C:\\Github\\Bubblesort\\Bubblesort.csproj",
-      "packagesPath": "C:\\Users\\Edvin\\.nuget\\packages\\",
+      "packagesPath": "C:\\Users\\edor07001\\.nuget\\packages\\",
       "outputPath": "C:\\Github\\Bubblesort\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Edvin\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\edor07001\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net8.0"
@@ -64,7 +64,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.401/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.406/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
