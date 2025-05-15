@@ -14,12 +14,13 @@ Stopwatch sw = Stopwatch.StartNew();
 BubbleSort(numbers);
 
 sw.Stop();
-Console.WriteLine($"Tid för sortering: {sw.Elapsed}");
 
 for(int i = 0; i < size; i++)
 {
     Console.WriteLine(numbers[i]);
 }
+
+Console.WriteLine($"Tid för sortering: {sw.Elapsed}");
 
 static void BubbleSort(int[] arr)
 {

@@ -12,3 +12,4 @@ C:\Github\Bubblesort\obj\Debug\net8.0\refint\Bubblesort.dll
 C:\Github\Bubblesort\obj\Debug\net8.0\Bubblesort.pdb
 C:\Github\Bubblesort\obj\Debug\net8.0\Bubblesort.genruntimeconfig.cache
 C:\Github\Bubblesort\obj\Debug\net8.0\ref\Bubblesort.dll
+C:\Github\Bubblesort\obj\Debug\net8.0\Bubblesort.sourcelink.json
